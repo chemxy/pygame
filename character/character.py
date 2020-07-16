@@ -1,4 +1,4 @@
-import pygame, sys, random, time
+import pygame, random, time
 
 #initializing data
 pygame.init()
@@ -66,6 +66,7 @@ def draw():
     #update display
     pygame.display.update()
 
+#main loop
 run= True
 while run:
     #set frame rate
