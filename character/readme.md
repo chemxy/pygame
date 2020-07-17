@@ -23,5 +23,6 @@ bomb dimensions: 20*20 pixels
 
 ## Future Work:
 
- 	1. add character's life. each character has 1 life initially. add 1 life every 400 scores. hitting 1 bomb will lose 1 life. show the number of lives at top-left corner, represented as a red heart.
- 	2. optimize bombs animation in terms of fluency and consistency (or replace bomb image), to reduce damage to eyes. right now my eyes kinda hurt after each game, especially those with scores > 1000.
+1. add character's life. each character has 1 life initially. add 1 life every 400 scores. hitting 1 bomb will lose 1 life. show the number of lives at top-left corner, represented as a red heart.
+
+2. optimize bombs animation in terms of fluency and consistency (or replace bomb image), to reduce damage to eyes. right now my eyes kinda hurt after each game, especially those with scores > 1000.
