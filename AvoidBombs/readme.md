@@ -1,4 +1,4 @@
-# Python Game: Avoid This!
+# Python Game: AvoidBombs!
 
 ## Instruction
 
